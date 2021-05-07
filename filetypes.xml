@@ -5,9 +5,8 @@
       <removed_mapping ext="csv" type="CSV" />
       <mapping ext="csv" type="CSV/TSV" />
       <mapping ext="tsv" type="CSV/TSV" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" type="TSV" />
-      <removed_mapping ext="txt" type="requirements.txt" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
