@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Material Theme Notifications" displayType="NONE" />
+    <notification groupId="Python Scientific View Advertiser" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
