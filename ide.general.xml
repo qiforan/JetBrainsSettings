@@ -17,6 +17,7 @@
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="TranslatorWidget" value="false" />
         <entry key="com.tabnine.statusBar.StatusBarPromotionWidget" value="false" />
+        <entry key="git" value="false" />
         <entry key="mtStatusBar" value="false" />
       </map>
     </option>
