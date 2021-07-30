@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/projects/CSCourses" />
         <option value="$USER_HOME$/projects/json-tutorial" />
+        <option value="$USER_HOME$/json-tutorial" />
       </list>
     </option>
   </component>
