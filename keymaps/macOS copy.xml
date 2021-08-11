@@ -1,0 +1,9 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
+  <action id="NextSplitter" />
+  <action id="Terminal.NextSplitter" />
+</keymap>

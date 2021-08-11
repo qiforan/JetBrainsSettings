@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/projects/CSCourses" />
+        <option value="$USER_HOME$/projects/json-tutorial" />
+        <option value="$USER_HOME$/json-tutorial" />
+      </list>
+    </option>
+  </component>
+</application>
